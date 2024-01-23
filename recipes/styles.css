@@ -1,0 +1,20 @@
+div {
+    width: 400px;
+    margin: 0px auto;
+}
+
+h1,
+h2,
+h3 {
+    text-align: center;
+    background-color: rgb(41, 211, 211);
+    padding: 10px;
+    border: solid 5px rgb(133, 133, 133);
+}
+
+h2,
+h3 {
+    background-color: rgb(146, 113, 207);
+}
+
+
